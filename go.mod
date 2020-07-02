@@ -1,4 +1,4 @@
-module owkeychain
+module github.com/deng/owkeychain
 
 go 1.14
 
